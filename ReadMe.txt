@@ -11,14 +11,16 @@
 	SOURCE FILES INCLUDED - initDB.py MyApp.py ResetApp.py   
 
 	**NOTE: Video Demonstration Link in the END.  
+
+	{[initDB.py ResetApp.py]-> database_scripts [MyApp.py]->src}
 	
-	DATE MODIFIED: 2024/03/17 - REV A   
+	DATE MODIFIED: 2024/03/17 - REV B   
 	  
 	
 2. COMPLILATION COMMAND TO USE :
 
 
-  - You shall find the above source files including the ReadME file.
+  - You shall find the above source files {[initDB.py ResetApp.py]-> database_scripts [MyApp.py]->src} including the ReadME file.
   
   - there are NO compilation commands to run as you will be running 3 scripts based in the need.
 
